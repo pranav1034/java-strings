@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class PalindromeChecker {
+public class CheckPalindrome{
 
     // Logic 1: Check palindrome using two-pointer method (start & end comparison)
     public static boolean isPalindromeTwoPointer(String text) {
